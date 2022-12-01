@@ -3,7 +3,7 @@ title: Alabama Vikings
 enableToc: false
 ---
 
-1. Meetups [[notes/meetups]]
+1. Meetups [[notes/12032022]]
 2. [Mission](https://inebriatedpress.files.wordpress.com/2009/03/090404-farside-wolves.jpg)
 
 Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
