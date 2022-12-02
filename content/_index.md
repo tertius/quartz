@@ -13,6 +13,6 @@ enableToc: false
 Check out some of the [other viking website](notes/vikings.md).
 
 ## Get Started with our group
-> 📚 Step 1: [Send email](notes/contact.md)
+> 📚 Step 1: [Send email](mailto:meetup@alviking.network)
 
-> 📚 Step 2: [Attend the next meetup](notes/meetups)
+> 📚 Step 2: [Attend the next meetup](notes/calendar)
