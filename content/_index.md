@@ -11,6 +11,5 @@ enableToc: false
 4. [Mission](https://inebriatedpress.files.wordpress.com/2009/03/090404-farside-wolves.jpg)
 
 ## Attend!
-> 📚 Step 1: Email [meetup@alviking.network](mailto:meetup@alviking.network) for details of the next meetup.
-
-> 📚 Step 2: [Attend the next meetup](notes/calendar)
+- 📚 Step 1: Email [meetup@alviking.network](mailto:meetup@alviking.network) for details of the next meetup.
+- 📚 Step 2: [Attend the next meetup](notes/calendar)
