@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b72a13e4bad0a6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04e71e1c7f32fea7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7e788ab59163b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meetings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12032022.md",
+                "file": "meetings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12032022.md",
+                "file": "meetings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12032022.md"
+                "file": "meetings.md"
               }
             }
           }
@@ -136,16 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dddbddce4c2fe0cb",
+  "active": "c7e788ab59163b82",
   "lastOpenFiles": [
-    "asdf.md",
+    "why.md",
+    "meetings.md",
+    "calendar.md",
     "12032022.md",
+    "asdf.md",
     "quartz-notes/docker.md",
     "quartz-notes/editing.md",
     "quartz-notes/custom Domain.md",
     "quartz-notes/config.md",
-    "quartz-notes/CJK + Latex Support (测试).md",
-    "quartz-notes/callouts.md",
-    "quartz-notes/images/github-actions.png"
+    "quartz-notes/CJK + Latex Support (测试).md"
   ]
 }

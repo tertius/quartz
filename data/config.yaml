@@ -1,4 +1,4 @@
-name: Alabama Vikings
+name: Alabama Viking Network
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -21,6 +21,3 @@ description:
   Alabama Viking resource website.
 page_title:
   "🪓️ Alabama Viking Network"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/alvikings
