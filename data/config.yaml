@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/tertius/quartz/tree/hugo/content
 search:
@@ -20,4 +20,4 @@ search:
 description:
   Alabama Viking resource website.
 page_title:
-  "🪓️ Alabama Viking Network"
+  "🛡️ Alabama Viking Network"
