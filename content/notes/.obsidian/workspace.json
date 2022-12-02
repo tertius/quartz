@@ -11,8 +11,12 @@
             "id": "ef0647d4106f6d31",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "calendar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "calendar.md"
+              }
             }
           }
         ]
@@ -130,12 +138,12 @@
   },
   "active": "ef0647d4106f6d31",
   "lastOpenFiles": [
-    "calendar.md",
-    "02182023.md",
-    "01212023.md",
     "meetings.md",
-    "12032022.md",
     "why.md",
+    "meetups/why_groups.md",
+    "meetups/cyber_security.md",
+    "meetups/area_study.md",
+    "calendar.md",
     "asdf.md",
     "quartz-notes/docker.md",
     "quartz-notes/editing.md",
