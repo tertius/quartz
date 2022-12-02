@@ -1,5 +1,5 @@
 ---
-title: Alabama Vikings
+title: Alabama Viking Network
 enableToc: false
 ---
 
