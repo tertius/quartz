@@ -10,8 +10,6 @@ enableToc: false
 3. [What to expect?](notes/meetings)
 4. [Mission](https://inebriatedpress.files.wordpress.com/2009/03/090404-farside-wolves.jpg)
 
-Check out some of the [other viking website](notes/vikings.md).
-
 ## Get Started with our group
 > 📚 Step 1: [Send email](mailto:meetup@alviking.network)
 
