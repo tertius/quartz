@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meetups/area_study.md",
+                "file": "meetups/why_groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meetups/area_study.md",
+                "file": "meetups/why_groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meetups/area_study.md",
+                "file": "meetups/why_groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meetups/area_study.md"
+                "file": "meetups/why_groups.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "ef0647d4106f6d31",
   "lastOpenFiles": [
-    "calendar.md",
-    "meetups/area_study.md",
-    "why.md",
     "meetups/cyber_security.md",
+    "meetups/area_study.md",
+    "calendar.md",
+    "why.md",
     "meetings.md",
     "meetups/why_groups.md",
     "asdf.md",
