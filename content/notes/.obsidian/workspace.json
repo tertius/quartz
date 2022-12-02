@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02182023.md",
+                "file": "calendar.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02182023.md",
+                "file": "calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02182023.md",
+                "file": "calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02182023.md"
+                "file": "calendar.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "c43ab835e36e204f",
   "lastOpenFiles": [
-    "01212023.md",
     "02182023.md",
+    "01212023.md",
     "calendar.md",
     "meetings.md",
     "12032022.md",
