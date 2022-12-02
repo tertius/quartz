@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12032022.md",
+                "file": "calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb73b97e754b958e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01212023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c43ab835e36e204f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02002023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12032022.md",
+                "file": "02002023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12032022.md",
+                "file": "02002023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12032022.md"
+                "file": "02002023.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dddbddce4c2fe0cb",
+  "active": "c43ab835e36e204f",
   "lastOpenFiles": [
-    "why.md",
+    "01212023.md",
+    "02002023.md",
     "calendar.md",
-    "12032022.md",
     "meetings.md",
+    "12032022.md",
+    "why.md",
     "asdf.md",
     "quartz-notes/docker.md",
     "quartz-notes/editing.md",
-    "quartz-notes/custom Domain.md",
-    "quartz-notes/config.md",
-    "quartz-notes/CJK + Latex Support (测试).md"
+    "quartz-notes/custom Domain.md"
   ]
 }
