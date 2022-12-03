@@ -171,6 +171,10 @@ tags:
 	- https://ssd.eff.org/module/choosing-your-tools
 * Web browsing
 	* Use TOR network.
+		* https://en.wikipedia.org/wiki/Tor_(network)
+		* Privacy (not complete).
+		* Protest, free speech, whistle-blowers, dark web.
+		* Network protocol, original packet sender is TOR exit node vs. the sender.
 * Messaging
 	* Verify Signal key fingerprints.
 	* Use Matrix/XMPP.
