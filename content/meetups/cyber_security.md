@@ -8,7 +8,6 @@ tags:
 - data
 - documents
 ---
-
 # Define/Philosophy
 ## Security
 * Encryption.
@@ -73,10 +72,11 @@ tags:
 	- Phone components and sensors.
 		- GPS.
 	- Malware.
-		- Turn your phone off?
+		- Does turning your phone off work?
+		- Cryptomining.
+			- Compromised apps.
 	- Faraday?
-- Cryptomining.
-	- Compromised apps.
+
 - Ransomware.
 
 # Attack vectors
@@ -112,9 +112,13 @@ tags:
 
 # Defense
 ## Easy mode
+- KISS.
+- Yourself.
+	- Backup, not copy.
 - Keep your devices updated.
 	- No updates?
 	- 0-Day.
+- Cloud hosting.
 - Android Safety
 	* App firewall.
 		* https://netguard.me/
@@ -161,6 +165,8 @@ tags:
 	- Use safe IOT devices.
 
 ## Advanced mode
+- Cloud storage.
+	- Self-hosted, group hosted.
 - Device updates: Advanced.
 	- https://ssd.eff.org/module/choosing-your-tools
 * Web browsing
@@ -230,6 +236,4 @@ tags:
 - EFF - https://ssd.eff.org/
 ## Safer software alternatives
 - https://switching.software/
-
-Plan?
-https://ssd.eff.org/module/your-security-plan
+- https://www.privacytools.io/ *
