@@ -100,6 +100,7 @@ tags:
 	- Weak.
 	- Reused.
 	- Passwordless.
+		- Sessions, authenticated once, can expire.
 	- Multifactor.
 		- Know.
 		- Have.
