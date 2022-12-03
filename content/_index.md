@@ -10,4 +10,5 @@ enableToc: false
 3. [Why do we meet?](why)
 
 ## Attend!
-- 📚 Step 1: Send us an email [meetup@alviking.network](meetup@alviking.network) for details of the next meetup.
+- 🎯 Step 1: Send us an email [meetup@alviking.network](meetup@alviking.network) for details of the next meetup.
+- ⛵ Step 2: Attend.
