@@ -1,12 +1,8 @@
 ---
-title: "Why have a mutual assistance group (MAG)?"
+title: "Crew, Tribe, MAG. Why be a part of one?"
 date: "01/21/2023"
 tags:
 - groups
 - philosophy
 ---
 
-## Nuclear attack
-## Starvation
-## Economic collapse
-## Natural Disaster

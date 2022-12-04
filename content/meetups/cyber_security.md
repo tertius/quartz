@@ -8,6 +8,33 @@ tags:
 - data
 - documents
 ---
+
+# Just want the meat?
+## Defense easy mode (Getting started)
+- Use Signal to message (and convince others to) instead of SMS, Whatsapp and Telegram.
+	- https://signal.org
+- Use an anonymous search engine instead of Google
+	- https://search.brave.com/
+	- https://duckduckgo.com/
+- Use a privacy focused browser like Brave (mobile and PC).
+	- https://brave.com/
+	- Add "HTTPSEverywhere on PC/Mac/Linux"
+		- https://www.eff.org/https-everywhere
+- Use a password manager with strong passwords that you don't reuse.
+	- https://www.lastpass.com/
+	- https://1password.com/
+	- https://bitwarden.com/
+- Use Protonmail or Fastmail over Gmail
+	- https://proton.me/
+	- https://www.fastmail.com/
+
+Check to see if you've been compromised
+- http://haveibeenpwnd.com/
+Explore other privacy focused services
+- https://www.privacytools.io/
+
+Want to learn more? Read on.
+
 # Define/Philosophy
 ## Security
 * Encryption.
@@ -112,7 +139,30 @@ tags:
 - https://ssd.eff.org/module/seven-steps-digital-security
 
 # Defense
-## Easy mode
+## Easy mode (Getting started)
+- Use Signal to message (and convince others to) instead of SMS, Whatsapp and Telegram.
+	- https://signal.org
+- Use an anonymous search engine instead of Google
+	- https://search.brave.com/
+	- https://duckduckgo.com/
+- Use a privacy focused browser like Brave (mobile and PC).
+	- https://brave.com/
+	- Add "HTTPSEverywhere on PC/Mac/Linux"
+		- https://www.eff.org/https-everywhere
+- Use a password manager with strong passwords that you don't reuse.
+	- https://www.lastpass.com/
+	- https://1password.com/
+	- https://bitwarden.com/
+- Use Protonmail or Fastmail over Gmail
+	- https://proton.me/
+	- https://www.fastmail.com/
+
+Check to see if you've been compromised
+- http://haveibeenpwnd.com/
+Explore other privacy focused services
+- https://www.privacytools.io/
+
+## Easy mode (Comprehensive)
 - KISS.
 - Yourself.
 	- Backup, not copy.
@@ -187,6 +237,7 @@ tags:
 		* https://en.wikipedia.org/wiki/Public-key_cryptography
 		* Sessionkey + Public & Private key.
 		* Dilligence.
+	* Self-host email.
 	* Drafts?
 * Internet Access
 	* VPN?
