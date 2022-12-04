@@ -20,10 +20,12 @@ tags:
 	- https://brave.com/
 	- Add "HTTPSEverywhere on PC/Mac/Linux"
 		- https://www.eff.org/https-everywhere
-- Use a password manager with strong passwords that you don't reuse.
+- Use a password manager with strong passwords that you don't reuse them.
 	- https://www.lastpass.com/
 	- https://1password.com/
 	- https://bitwarden.com/
+	- Make sure your password manager has a strong password.
+		- https://ssd.eff.org/module/animated-overview-how-make-super-secure-password-using-dice
 - Use Protonmail or Fastmail over Gmail
 	- https://proton.me/
 	- https://www.fastmail.com/
