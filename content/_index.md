@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-January 21st 2023 - [Crew, Tribe, MAG. Why be a part of one?](meetups/why_groups.md)
+## January 21st 2023 - [Crew, Tribe, MAG. Why be a part of one?](meetups/why_groups.md)
 
 ## [All previous meetup notes](calendar.md)
 
