@@ -2,6 +2,6 @@
 title: "What to expect"
 ---
 
-We will be a small group of likeminded people wanting to learn more about preparedness.
+Who attends: Anyone into preparedness at any level. If you just added some extra fire extinguishers and water to your home to prepare or if you live on a homestead you'll find like minded people in the group.
 
-There will be a class for about an hour with Q&A. There will be drinks and there may be a snack to chat afterwards. We normally stay behind and chat about the topic and everything else that flows from that.
+Structure: There will be a class with some Q&A. There will be drinks and there may be a snack to chat afterwards. We normally stay behind and chat about the topic and everything else that flows from that.

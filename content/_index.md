@@ -8,7 +8,7 @@ January 21st 2023 - [Crew, Tribe, MAG. Why be a part of one?](meetups/why_groups
 
 ## [All previous meetup notes](calendar.md)
 
-## When, What and Why
+## When, Why and What
 
 1. [When do we meet?](calendar)
 2. [Why attend?](why)
