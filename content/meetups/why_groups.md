@@ -6,3 +6,7 @@ tags:
 - philosophy
 ---
 
+# Why Join a Preparedness Group
+# It Takes Time
+# Pitfalls
+# How Do I Get Started
