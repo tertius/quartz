@@ -7,7 +7,7 @@ tags:
 ---
 
 # Registration required (no cost)
-- Please contact LarryAVL@protonmail.com to add your name to the list before March 15th so that we can register.
+- Please contact [LarryAVL@protonmail.com](mailto:LarryAVL@protonmail.com) to add your name to the list before March 15th so that we can register.
 
 ## Meetup details
 - Date: Saturday March 18th 2023.
