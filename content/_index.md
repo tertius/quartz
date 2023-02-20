@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-### February 18th 2023 [Area Study](meetups/area_study.md)
+### March 18th 2023 [Orienteering Practical](meetups/orienteering_vulcan)
 
 ## [All previous meetup notes](calendar.md)
 
