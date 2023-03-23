@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-### March 18th 2023 [Orienteering Practical](meetups/orienteering_vulcan)
+April 15th-16th - [Bushcrafting & BOB Campout](meetups/bob_camp-2023)
 
 ## [All previous meetup notes](calendar.md)
 
