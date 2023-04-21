@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-April 15th-16th - [Bushcrafting & BOB Campout](meetups/bob_camp-2023)
+May 2023 - 
 
 ## [All previous meetup notes](calendar.md)
 
