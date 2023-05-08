@@ -14,6 +14,7 @@ tags:
 ## Bring
 - Chairs.
 ## Location & Time
+- May 20th 2023.
 - 1 PM Central.
 - Leeds Memorial Park: 1159 Montevallo Rd SW, Leeds, AL 35094.
 - Direction inside the park
