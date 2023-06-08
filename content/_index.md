@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-[May 20th 2023 - Food Storage](meetups/food_storage)
+[July 2023] - Come back for details.
 
 ## [All previous meetup notes](calendar.md)
 

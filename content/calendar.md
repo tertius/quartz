@@ -5,9 +5,10 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- May 2023.
+- July 2023.
 
 ### Past (notes for resources)
+- May 20th - [Food Storage](meetups/food_storage.md)
 - April 15th-16th - [Bushcrafting & BOB Campout](meetups/bob_camp-2023)
 - March 18th 2023 - [Orienteering Practical](meetups/orienteering_vulcan)
 - February 18th 2023 - [All about Area Studies](meetups/area_study.md)
