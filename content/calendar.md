@@ -5,7 +5,7 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- July 2023.
+- July 2023 - [Stop the Bleed](meetups/first_aid_bleed.md)
 
 ### Past (notes for resources)
 - May 20th - [Food Storage](meetups/food_storage.md)
