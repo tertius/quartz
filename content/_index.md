@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-[July 2023] - Come back for details.
+July 2023 - [Stop the Bleed](meetups/first_aid_bleed.md)
 
 ## [All previous meetup notes](calendar.md)
 
