@@ -5,9 +5,10 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- July 2023 - [Stop the Bleed](meetups/first_aid_bleed.md)
+- September 2023 - [BOB/GHB](meetups/bob_2023.md)
 
 ### Past (notes for resources)
+- July 2023 - [Stop the Bleed](meetups/first_aid_bleed.md)
 - May 20th - [Food Storage](meetups/food_storage.md)
 - April 15th-16th - [Bushcrafting & BOB Campout](meetups/bob_camp-2023)
 - March 18th 2023 - [Orienteering Practical](meetups/orienteering_vulcan)
