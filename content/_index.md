@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-September 2023 - [BOB/GHB](meetups/bob_2023.md)
+December 2023 - [Solar Power](meetups/solar_power.md)
 
 ## [All previous meetup notes](calendar.md)
 

@@ -5,7 +5,7 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- 18 November 2023 - [[[BOB/GHB](meetups/solar_power.md)]]
+- 18 November 2023 - [Solar Power](meetups/solar_power.md)
 
 ### Past (notes for resources)
 - September 2023 - [BOB/GHB](meetups/bob_2023.md)
