@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-November 2023 - [Solar Power](meetups/solar_power.md)
+January 2024 - [Winter Field Day](meetups/wfd_2024.md)
 
 ## [All previous meetup notes](calendar.md)
 

@@ -5,9 +5,10 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- 18 November 2023 - [Solar Power](meetups/solar_power.md)
+- January 2023 - [Winter Field Day (HAM Radio)](meetups/wfd_2024.md)
 
 ### Past (notes for resources)
+- November 2023 - [Solar Power](meetups/solar_power.md)
 - September 2023 - [BOB/GHB](meetups/bob_2023.md)
 - July 2023 - [Stop the Bleed](meetups/first_aid_bleed.md)
 - May 20th - [Food Storage](meetups/food_storage.md)
