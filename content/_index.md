@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-January 2024 - [Winter Field Day](meetups/wfd_2024.md)
+January 2024 - [Winter Field Day - Ham Radio demo/Q&A](meetups/wfd_2024.md)
 
 ## [All previous meetup notes](calendar.md)
 
