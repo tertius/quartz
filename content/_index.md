@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-January 2024 - [Winter Field Day - Ham Radio demo/Q&A](meetups/wfd_2024.md)
+February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
 
 ## [All previous meetup notes](calendar.md)
 
