@@ -5,9 +5,10 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
+- April 2024 - [Lock picking](meetups/locks.md)
 
 ### Past (notes for resources)
+- February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
 - January 2023 - [Winter Field Day (HAM Radio)](meetups/wfd_2024.md)
 - November 2023 - [Solar Power](meetups/solar_power.md)
 - September 2023 - [BOB/GHB](meetups/bob_2023.md)

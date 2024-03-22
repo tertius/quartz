@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
+April 2024 - [Lock picking](meetups/locks.md)
 
 ## [All previous meetup notes](calendar.md)
 
