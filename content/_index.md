@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-June 2024 - [Foraging for Wild Edibles](meetups/wild_edibles.md)
+- TBD.
 
 ## [All previous meetup notes](calendar.md)
 

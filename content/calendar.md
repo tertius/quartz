@@ -5,9 +5,9 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- June 2024 - [Foraging for Wild Edibles](meetups/wild_edibles.md)
 
 ### Past (notes for resources)
+- June 2024 - [Foraging for Wild Edibles](meetups/wild_edibles.md)
 - April 2024 - [Lock picking](meetups/locks.md)
 - February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
 - January 2023 - [Winter Field Day (HAM Radio)](meetups/wfd_2024.md)
