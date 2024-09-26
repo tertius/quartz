@@ -5,7 +5,7 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
-- October 2024 - [Meshtastic](meetups/meshtastic.md)
+- October 2024 - [Meshtastic & BirminghamMesh.org](meetups/meshtastic.md)
 
 ### Past (notes for resources)
 - August 2024 - Pressure Canning.

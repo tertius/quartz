@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-- October 2024 - [Meshtastic](meetups/meshtastic.md)
+- October 2024 - [Meshtastic & BirminghamMesh.org](meetups/meshtastic.md)
 
 ## [All previous meetup notes](calendar.md)
 
