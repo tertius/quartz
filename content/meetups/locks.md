@@ -6,7 +6,6 @@ tags:
 - locks
 - keys
 ---
-
 # Topic:
 - Lockpicking, hands on.
 ### Location:

@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 # Next meetup
-- TBD.
+- October 2024 - [Meshtastic](meetups/meshtastic.md)
 
 ## [All previous meetup notes](calendar.md)
 

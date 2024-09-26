@@ -5,8 +5,10 @@ title: "When do we meet?"
 ## Dates
 
 ### Upcoming
+- October 2024 - [Meshtastic](meetups/meshtastic.md)
 
 ### Past (notes for resources)
+- August 2024 - Pressure Canning.
 - June 2024 - [Foraging for Wild Edibles](meetups/wild_edibles.md)
 - April 2024 - [Lock picking](meetups/locks.md)
 - February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
