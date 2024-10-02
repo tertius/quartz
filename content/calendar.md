@@ -8,7 +8,7 @@ title: "When do we meet?"
 - October 2024 - [Meshtastic & BirminghamMesh.org](meetups/meshtastic.md)
 
 ### Past (notes for resources)
-- August 2024 - Pressure Canning.
+- August 2024 - [Pressure Canning](meetups/pressure_canning.md)
 - June 2024 - [Foraging for Wild Edibles](meetups/wild_edibles.md)
 - April 2024 - [Lock picking](meetups/locks.md)
 - February 2024 - [Orienteering at Oak Mountain State Park](meetups/orienteering_oak_feb24.md)
