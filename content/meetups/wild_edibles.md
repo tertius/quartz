@@ -10,7 +10,7 @@ tags:
 - Wild Edible Basics.
 
 ## Notes from meetup
-![](images/Wild-Edibles-Basics.pptx)
+![Wild Edibles Powerpoint](images/Wild-Edibles-Basics.pptx)
 
 ### Location:
 Altadena Vally Presbyterian Church, 4660 Caldwell Mill Road, Birmingham, AL 35243
